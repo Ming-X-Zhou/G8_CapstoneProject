@@ -19,7 +19,7 @@ Christopher Vernon: Random Forest
 Mingxuan Zhou: eXtreme Gradient Boosting (XGBoost), Category Boosting (CatBoost),
               Light Gradient Boosting Machine (lightGBM), Tabular Neural Network (TabNet)
 Bhargava Sai Gopal Kolli: Support Vector Machine (SVM)
-Robbie Baiuo (23028611@student.uwa.edu.au): XGBoost, LiteGBM
-Peter Millitz (23088298@student.uwa.edu.au): Logistic Regression (LR)
-Neha Sharma (23145186@student.uwa.edu.au): Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN)
+Robbie Baiuo: XGBoost, LiteGBM
+Peter Millitz: Logistic Regression (LR)
+Neha Sharma: Multi-Layer Perceptron (MLP), Convolutional Neural Network (CNN)
 ```
